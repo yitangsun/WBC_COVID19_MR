@@ -24,7 +24,7 @@ Pathway_SNP="/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/SNP/"
 Pathway_geno="/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/Genotype/"
 Pathway_out="/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/MR_result/result_WBC_01_28_5e-8/"
 
-#load("/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/SNP/SNPS_37_38.RData")
+load("/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/SNP/SNPS_37_38.RData")
 
 Trait <- read.csv("/scratch/ys98038/UKB/plink2_format/COVID_19/Analyses/SNP/WBC_Trait.txt",header=F, as.is=T,sep = "\t")
 Trait$V4=as.numeric(gsub(",", "", Trait$V4))
