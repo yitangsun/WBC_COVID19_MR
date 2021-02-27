@@ -1,5 +1,8 @@
 # WBC_COVID19_MR
 
+White blood cells and severe COVID-19: a Mendelian randomization study
+is published in medRxiv: https://www.medrxiv.org/content/10.1101/2020.10.14.20212993v2
+
 ####### Forward MR
 
 1. Download_WBC.sh
