@@ -1,7 +1,8 @@
-# WBC_COVID19_MR
+# White blood cells and severe COVID-19: a Mendelian randomization study
+(20th of October 2020, updated 20th of March 2021)
 
-White blood cells and severe COVID-19: a Mendelian randomization study
-is published in medRxiv: https://www.medrxiv.org/content/10.1101/2020.10.14.20212993v2
+**White blood cells and severe COVID-19: a Mendelian randomization study**
+is published in [Journal of Personalized Medicine](https://www.mdpi.com/2075-4426/11/3/195#)
 
 ####### Forward MR
 
@@ -16,3 +17,14 @@ is published in medRxiv: https://www.medrxiv.org/content/10.1101/2020.10.14.2021
 
 7. Final_Prepare_COVID_19_exp.r
 8. Final_COVID_WBC_reversed_MR.r
+
+
+## Citation
+
+To cite in publications, please use:
+
+Sun Y, Zhou J, Ye K. White Blood Cells and Severe COVID-19: A Mendelian Randomization Study. Journal of Personalized Medicine. 2021; 11(3):195. https://doi.org/10.3390/jpm11030195
+
+## License
+
+Copyright (c) 2021 Yitang Sun and Kaixiong Ye
